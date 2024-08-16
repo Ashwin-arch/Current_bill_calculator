@@ -24,5 +24,5 @@ You need a web browser to open and use the application. Modern browsers like Chr
 
    ```bash
 
-   git clone https://github.com/yourusername/current-bill-calculator.git
+   git clone https://github.com/Ashwin-arch/current-bill-calculator.git
   after cloning extract the file and open with vscode or any other text editor and run in the browser
